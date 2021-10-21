@@ -6,7 +6,11 @@ p{
 	color : red;
 }
 
-#carte{
+.carte{
 	width: 250px;
+}
+
+#carte2:hover{
+	content: url('nico.png');
 }
 
